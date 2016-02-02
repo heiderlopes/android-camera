@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android-camera</string>
+    <string name="tirar_foto">Tirar foto</string>
+    <string name="gravar_video">Gravar Vídeo</string>
+</resources>
